@@ -25,7 +25,7 @@ Its a python script that automatically fetch members from any telegram group and
 
 Answer : YES, you can... let say i have 4 accounts and i want to run all at once, i will copy and paste the scipts into 4 differents folders then open 4 terminals or cmd, and run those scripts. MAKE SURE not to run 1 account n two or more different terminals or cmd.
 
-
+---------> https://youtu.be/d2GgWuaTeRA
 	DONT FORGET TO LEAVE A STAR
 
 
